@@ -14,7 +14,7 @@ navbar:
   - text: Projets
     menu:
       - text: DataMining
-        href: Indice.html
+        href: indice.html
       - text: Arbre de decision
         href: Arbre.html
   - text: Dashboard
