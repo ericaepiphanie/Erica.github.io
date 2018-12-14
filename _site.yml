@@ -25,7 +25,7 @@ navbar:
         href: carte.html
   right:
   - icon: fa-envelope fa-lg
-    href: contact.html
+    href: mailto:epiphanienikiema@gmail.com
   - icon: fa-github fa-lg
     href: https://github.com/ericaepiphanie
   - icon: fa-linkedin fa-lg
